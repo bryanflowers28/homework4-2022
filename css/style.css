@@ -14,7 +14,6 @@ header {
 .nav_links{
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .nav_links a:visited {
